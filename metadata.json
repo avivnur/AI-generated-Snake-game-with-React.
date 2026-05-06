@@ -1,0 +1,6 @@
+{
+  "name": "Neon Arcade: Snake & Synth",
+  "description": "Play a neon-themed Snake game while listening to algorithmic AI-generated music tracks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
